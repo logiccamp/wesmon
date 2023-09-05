@@ -85,6 +85,8 @@ body_theme4
 {{-- @endif --}}
 
 <!-- Header-->
+@include('user.chat_icon')
+
 <header class="site-header navbar-sticky">
     <div class="menu-top-area">
         <div class="container">
